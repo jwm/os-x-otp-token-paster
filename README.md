@@ -1,5 +1,5 @@
-OS X OTP Token Service
-======================
+OTP Token Paster for OS X
+=========================
 
 An OS X service that automatically enters the current one-time password
 (OTP) into the current iTerm window.
