@@ -27,7 +27,7 @@ Using
 Caveats
 =======
 
-The hotkey won't work until you go to the application menu in iTerm (click
+The hotkey may not work until you go to the application menu in iTerm (click
 'iTerm' in the menu bar) and point at the Services menu. You don't have to
 actually click any of the services; expanding the menu is enough to make OS
 X recognize the keyboard shortcut exists. You have to do this each time you
